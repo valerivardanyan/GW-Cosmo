@@ -20,9 +20,9 @@ Main files
 
 * /Plotting/Example.ipynb : Example notebook.
 
-* /MCMC_run/specifications.py : Survey and specifications are given here. 
+* /MCMC_run/specifications.py : Survey specifications are given here. 
 * /MCMC_run/initialize.py : Performs some initializations. 
 * /MCMC_run/chain.py : Contains the likelihood and GP setup. 
-* /MCMC_run/check-fit.ipynb : Monitor the chain status and more. 
+* /MCMC_run/check-fit.ipynb : Monitors the chain status and make preliminary plots. 
 
 
