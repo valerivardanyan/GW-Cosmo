@@ -3,7 +3,7 @@
 Analysis pipeline accompanying Canas-Herrera, Contigiani, Vardanyan [arXiv:]. Please cite this paper when making use of the repository. 
 
 
-Prerequisite
+Prerequisites
 ----------
 
 * [COLOSSUS](https://bdiemer.bitbucket.io/colossus/)
