@@ -18,7 +18,7 @@ Main files
 
 * /src/GWGC_cross_corr.py : The main source file. Calculates the theoretical spectra and covariances, generates mock data.  
 
-* /Plotting/Example.ipynb : Example notebook.
+* /Example/Wrapper.ipynb : Example notebook.
 
 * /MCMC_run/specifications.py : Survey specifications are given here. 
 * /MCMC_run/initialize.py : Performs some initializations. 
