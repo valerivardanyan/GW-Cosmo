@@ -1,6 +1,6 @@
 # GW-Cosmo
 
-Analysis pipeline accompanying Canas-Herrera, Contigiani, Vardanyan [arXiv:]. Please cite this paper when making use of the repository. 
+Analysis pipeline accompanying Canas-Herrera, Contigiani, Vardanyan [arXiv:2105.04262](https://arxiv.org/abs/2105.04262). Please cite this paper when making use of the repository. 
 
 
 Prerequisites
